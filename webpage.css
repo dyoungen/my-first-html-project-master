@@ -41,3 +41,8 @@ html {
 		border: 5px solid black;
 		width: 1100px;
 	}
+	
+	#header {
+		color:pink;
+		font-weight: bold;
+	}
