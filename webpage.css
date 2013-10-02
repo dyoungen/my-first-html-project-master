@@ -46,3 +46,15 @@ html {
 		color:pink;
 		font-weight: bold;
 	}
+	
+	@media all and (max-width:500px){
+		html {
+		background-color:pink;
+		background-image:none;}
+		}
+		
+	@media all and (orientation:landscape){
+		html {
+		background-color:green;
+		background-image:none;}
+		}
